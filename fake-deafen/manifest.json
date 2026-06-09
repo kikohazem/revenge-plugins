@@ -1,0 +1,8 @@
+{
+    "name": "Fake Mute & Deafen",
+    "description": "Fake your mute or deafen status to others.",
+    "authors": [{ "name": "kikohazem", "id": "123456789" }],
+    "main": "plugin.js",
+    "vendetta": {
+        "icon": "ic_microphone"
+    }
